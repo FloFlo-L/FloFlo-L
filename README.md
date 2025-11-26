@@ -1,6 +1,6 @@
 <div>
   <h1>Hey 👋, I'm Florian LESCRIBAA</h1>
-  <h3>A passionate fullstack developer Full stack developer about creating web applications since several years.</h3>
+  <h3>A passionate fullstack developer about creating web applications since several years.</h3>
 
   </br>
  
