@@ -1,17 +1,21 @@
 <div>
   <h1>Hey 👋, I'm Florian LESCRIBAA</h1>
-  <h3>A passionate fullstack developer specialized in e-commerce applications</h3>
+  <h3>A passionate fullstack developer Full stack developer about creating web applications since several years.</h3>
+
+  </br>
+ 
+  ✉️[Contact me](https://florian-lescribaa.com/en#contact)✉️ for any opportunities
 </div>
 
 </br>
 
 <h2>About Me</h2>
 
-- 🔭 I'm currently working at [Antadis](https://antadis.com/) as a PrestaShop developer
+- 💼 Currently looking for a job
 
 - 👨‍💻 My portoflio is available on [florian-lescribaa.com](https://florian-lescribaa.com)
 
-- 💬 Ask me about **PrestaShop**
+- 💬 Ask me to discuss your needs
 
 </br>
 
